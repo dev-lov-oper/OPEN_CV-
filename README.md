@@ -10,15 +10,15 @@ The core objective of this repository is to master image processing, video manip
 
 ### 🟩 Phase 1: Core Fundamentals
 Basic image loading, manipulation, and coordinate space transformations.
-- [x] **Introduction to CV & OpenCV** – Understanding computer vision concepts and library architecture.
-- [x] **Reading & Writing Images** – Using `cv2.imread()`, `cv2.imshow()`, and `cv2.imwrite()`.
+- [ ] **Introduction to CV & OpenCV** – Understanding computer vision concepts and library architecture.
+- [ ] **Reading & Writing Images** – Using `cv2.imread()`, `cv2.imshow()`, and `cv2.imwrite()`.
 - [ ] **Resizing Images** – Scaling images up and down.
-- [x] **Resizing based on Aspect Ratio** – Maintaining proportions while changing dimensions.
+- [ ] **Resizing based on Aspect Ratio** – Maintaining proportions while changing dimensions.
 - [ ] **Flipping Images** – Horizontal, vertical, and combined axis mirroring.
 
 ### 🟩 Phase 2: Drawing & Image Modifications
 - [ ] **Adding Shapes and Text** – Drawing lines, rectangles, circles, and rendering overlay text (`cv2.putText`).
-- [x] **Morphological Operations** – Dilation, Erosion, Opening, and Closing for noise reduction.
+- [ ] **Morphological Operations** – Dilation, Erosion, Opening, and Closing for noise reduction.
 - [ ] **Image Transformations** – Shifting (Translation) and Rotation matrices.
 
 ### 🟨 Phase 3: Advanced Filtering & Edges
